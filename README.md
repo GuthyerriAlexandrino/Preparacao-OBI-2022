@@ -5,7 +5,7 @@ Livros:
 - The Algorithm Design Manual, Skiena
 
 
-Material Complementar:
+Material Complementar:  
 Pros que querem aprender sobre NP-Completude, Autômatos e Computabilidade:
 - Introdução a Teoria da Computação, Michael Sipser
 
