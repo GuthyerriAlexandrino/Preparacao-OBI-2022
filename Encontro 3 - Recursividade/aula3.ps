@@ -1,0 +1,32 @@
+Algoritmo qt(n)
+
+Se N=1
+  retorna 3
+retorna qt(n-1) + 2n + 1
+
+
+
+
+Algoritmo maior(L[1..N], N)
+  se N = 1
+    retorna L[1]
+  
+  m <- maior(L[1..N-1], N - 1)
+  se m > L[N]
+    retorna m
+  retorna L[N]
+
+Algoritmo menor(L[1..N], N)
+  se N = 1
+    retorna L[1]
+
+  m <- menor(L[2..N], N - 1)
+
+  se m < L[1]
+    retorna m
+  retorna L[1]
+
+  // [5, 2, 1, 4]
+  // [2, 1, 4]
+  // [1, 4]
+  // [4]

@@ -13,3 +13,6 @@ Pros que querem aprender sobre NP-Completude, Autômatos e Computabilidade:
 
 Livro com boa quantidade de questões interessantes:
 - Cracking the Coding Interview: 189 programming questions and solutions
+
+Obs:
+- Os arquivos com final ".ps" referem-se aos códigos realizados em Pseudocódigo. Abra-os em um editor de texto pois não são executáveis.
