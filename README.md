@@ -4,7 +4,7 @@ Livros:
 - [Biblioteca](/Livros/)
 - Algoritmos Teoria e Prática, Thomas Cormen
 - The Algorithm Design Manual, Skiena
-- Estruturas de Dados Abertas [Inglês](/Livros/ods.pdf/) [Português](/Livros/ods-br.pdf/)
+- Estruturas de Dados Abertas: [Inglês](/Livros/ods.pdf/) \| [Português](/Livros/ods-br.pdf/)
 
 
 Material Complementar:  
